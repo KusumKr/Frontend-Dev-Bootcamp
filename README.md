@@ -15,7 +15,9 @@
 <br>
 6. Glimpse
 <br>
-6. Author
+7. License
+<br>
+8. Author
 <br>
 
 <h3>Introduction</h3>
@@ -43,7 +45,7 @@
 <p>We offer comprehensive career support, including resume building, interview preparation, and networking opportunities. Our goal is to help you transition smoothly into a successful career in tech.</p>
 <br>
 
-<Glimpse>
+<h3>Glimpse</h3>
 <br>
   
 ![Screenshot 2024-08-30 114938](https://github.com/user-attachments/assets/3ae87ece-a4a4-4944-a151-1e45994b14cd)
@@ -53,7 +55,18 @@
 ![Screenshot 2024-08-30 115034](https://github.com/user-attachments/assets/7c1cab8b-6820-40e1-9c89-d1ea2ec556bc)
 <br>
 ![Screenshot 2024-08-30 115046](https://github.com/user-attachments/assets/2559bffe-4641-44f6-8310-3141ee72fe8e)
+<br>
 
+<h1>License</h1>
+<p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
+<br>
+
+<h1>Author</h1>
+<br>
+* Kusum Kharayat
+<br>
+* Github:- https://github.com/KusumKr
+<br>
 
 
 
